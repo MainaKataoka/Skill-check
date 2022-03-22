@@ -20,6 +20,7 @@ services:
     volumes:
       - ../:/var/www/html
       - ./php/log/:/var/log/php/
+      - ./mail.ini:/etc/php.d/mail.ini:ro
 
   phpmyadmin:
     image: phpmyadmin/phpmyadmin:latest
@@ -46,3 +47,8 @@ services:
     environment:
       MYSQL_ROOT_PASSWORD: password
       TZ: Asia/Tokyo
+
+  mailhog:
+    image: mailhog/mailhog
+    ports:
+      - 8025:8025

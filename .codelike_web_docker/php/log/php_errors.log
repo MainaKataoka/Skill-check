@@ -1,0 +1,168 @@
+[19-Mar-2022 11:08:30 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 18
+[19-Mar-2022 11:08:30 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 19
+[19-Mar-2022 11:08:30 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 22
+[19-Mar-2022 17:20:05 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/info.php on line 9
+[19-Mar-2022 17:41:01 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/fix.php on line 28
+[19-Mar-2022 17:41:42 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/fix.php on line 28
+[19-Mar-2022 17:41:47 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/fix.php on line 28
+[19-Mar-2022 17:42:20 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/fix.php on line 28
+[19-Mar-2022 17:42:29 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/fix.php on line 28
+[19-Mar-2022 17:42:45 Asia/Tokyo] PHP Warning:  Undefined array key "name" in /var/www/html/fix.php on line 28
+[20-Mar-2022 09:22:29 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Undefined constant "name" in /var/www/html/confirm.php:20
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/confirm.php on line 20
+[20-Mar-2022 09:22:35 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Undefined constant "name" in /var/www/html/confirm.php:20
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/confirm.php on line 20
+[21-Mar-2022 10:16:41 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 22
+[21-Mar-2022 10:17:20 Asia/Tokyo] PHP Warning:  Undefined variable $bodoy in /var/www/html/send_email.php on line 14
+[21-Mar-2022 10:28:34 Asia/Tokyo] PHP Warning:  Undefined variable $to in /var/www/html/finish.php on line 3
+[21-Mar-2022 20:55:45 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/confirm.php on line 50
+[21-Mar-2022 20:55:45 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/confirm.php on line 52
+[21-Mar-2022 22:47:09 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/fix.php on line 21
+[21-Mar-2022 22:47:09 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/fix.php on line 22
+[21-Mar-2022 22:47:09 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/fix.php on line 23
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 21
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 23
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 25
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 27
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 29
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 33
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 34
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 35
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 36
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 37
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 42
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 43
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 44
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 45
+[22-Mar-2022 15:02:25 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 46
+[22-Mar-2022 15:04:03 Asia/Tokyo] PHP Parse error:  syntax error, unexpected token "," in /var/www/html/confirm_pgm.php on line 18
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 21
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 23
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 25
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 27
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 29
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 33
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 34
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 35
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 36
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 37
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 42
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 43
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 44
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 45
+[22-Mar-2022 15:29:57 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 46
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 21
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 23
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 25
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 27
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 29
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 33
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 34
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 35
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 36
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 37
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 42
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 43
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 44
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 45
+[22-Mar-2022 15:32:05 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 46
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 21
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 23
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 25
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 27
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 29
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 33
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 34
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 35
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 36
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 37
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 42
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 43
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 44
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 45
+[22-Mar-2022 15:32:34 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 46
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 21
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 23
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 25
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 27
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 29
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/confirm_pgm.php on line 4
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 33
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 34
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 35
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 36
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 37
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $title in /var/www/html/confirm.php on line 42
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/confirm.php on line 43
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/confirm.php on line 44
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/confirm.php on line 45
+[22-Mar-2022 15:32:49 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/confirm.php on line 46
+[22-Mar-2022 15:47:53 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function coubt() in /var/www/html/confirm.php:50
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/confirm.php on line 50
+[22-Mar-2022 15:48:31 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function coubt() in /var/www/html/confirm.php:50
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/confirm.php on line 50
+[22-Mar-2022 15:48:31 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/fix.php on line 21
+[22-Mar-2022 15:48:31 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/fix.php on line 22
+[22-Mar-2022 15:48:31 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/fix.php on line 23
+[22-Mar-2022 15:48:31 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/fix.php on line 27
+[22-Mar-2022 15:48:31 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fix_pgm.php on line 4
+[22-Mar-2022 15:48:31 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/fix.php on line 30
+[22-Mar-2022 15:48:31 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fix_pgm.php on line 4
+[22-Mar-2022 15:48:31 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/fix.php on line 33
+[22-Mar-2022 15:48:31 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fix_pgm.php on line 4
+[22-Mar-2022 15:48:31 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/fix.php on line 37
+[22-Mar-2022 15:48:31 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fix_pgm.php on line 4
+[22-Mar-2022 15:50:26 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function coubt() in /var/www/html/confirm.php:50
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/confirm.php on line 50
+[22-Mar-2022 15:50:26 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/fix.php on line 21
+[22-Mar-2022 15:50:26 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/fix.php on line 22
+[22-Mar-2022 15:50:26 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/fix.php on line 23
+[22-Mar-2022 15:50:26 Asia/Tokyo] PHP Warning:  Undefined variable $name in /var/www/html/fix.php on line 27
+[22-Mar-2022 15:50:26 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fix_pgm.php on line 4
+[22-Mar-2022 15:50:26 Asia/Tokyo] PHP Warning:  Undefined variable $email in /var/www/html/fix.php on line 30
+[22-Mar-2022 15:50:26 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fix_pgm.php on line 4
+[22-Mar-2022 15:50:26 Asia/Tokyo] PHP Warning:  Undefined variable $phone in /var/www/html/fix.php on line 33
+[22-Mar-2022 15:50:26 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fix_pgm.php on line 4
+[22-Mar-2022 15:50:26 Asia/Tokyo] PHP Warning:  Undefined variable $body in /var/www/html/fix.php on line 37
+[22-Mar-2022 15:50:26 Asia/Tokyo] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /var/www/html/fix_pgm.php on line 4
+[22-Mar-2022 15:50:38 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function coubt() in /var/www/html/confirm.php:50
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/confirm.php on line 50
+[22-Mar-2022 16:09:43 Asia/Tokyo] PHP Warning:  Undefined variable $errors in /var/www/html/confirm.php on line 50
+[22-Mar-2022 16:09:43 Asia/Tokyo] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /var/www/html/confirm.php:50
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/confirm.php on line 50
+[22-Mar-2022 16:14:45 Asia/Tokyo] PHP Warning:  Undefined variable $check1 in /var/www/html/confirm.php on line 24
+[22-Mar-2022 16:14:45 Asia/Tokyo] PHP Warning:  Undefined variable $check2 in /var/www/html/confirm.php on line 25
+[22-Mar-2022 16:14:45 Asia/Tokyo] PHP Warning:  Undefined variable $check3 in /var/www/html/confirm.php on line 26
